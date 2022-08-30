@@ -1,0 +1,6 @@
+@import 'https://necolas.github.io/normalize.css/8.0.1/normalize.css';
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+@import './global.css';
+@import './layout.css';
+@import './components.css';
+@import './typography.css';
